@@ -1,3 +1,6 @@
-#ignore database file
+# ignore database file and secret token
 .env
 .json
+.idea
+# ignore build file
+.exe

@@ -1,1 +1,36 @@
-{"chirps":{"1":{"id":1,"body":"I had something interesting for breakfast"},"2":{"id":2,"body":"What about second breakfast?"},"3":{"id":3,"body":"Supper? Dinner? Do you know about those?"}}}
+{
+	"chirps": {
+		"1": {
+			"id": 1,
+			"body": "I'm the one who knocks!",
+			"author_id": 1
+		},
+		"2": {
+			"id": 2,
+			"body": "Gale!",
+			"author_id": 1
+		},
+		"3": {
+			"id": 3,
+			"body": "Cmon Pinkman",
+			"author_id": 1
+		},
+		"4": {
+			"id": 4,
+			"body": "Darn that fly, I just wanna cook",
+			"author_id": 1
+		}
+	},
+	"users": {
+		"1": {
+			"id": 1,
+			"email": "walt@breakingbad.com",
+			"password": "$2a$10$0pfTzkhcMIZAKFvLgMjekOMPg8P6Vxz1sSViQBKvbsosiRxDUYafC",
+			"revoke_token": {
+				"id": "",
+				"time": ""
+			},
+			"is_chirpy_red": false
+		}
+	}
+}
